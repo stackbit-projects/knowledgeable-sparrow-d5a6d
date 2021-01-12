@@ -3,9 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: KiTa rulez!
-    subtitle: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
-      quis lorem malesuada luctus.
+    subtitle: 'Nema KiTe, do KiTe'
     actions:
       - label: Learn More
         url: /features
